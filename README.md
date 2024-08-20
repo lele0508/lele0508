@@ -12,4 +12,4 @@ Meu nome é Leticia da rocha
 
 @lele.xzs_
 
-![]([https://media1.tenor.com/m/CiEcvxyYm2AAAAAC/barbie-gif-gif.gif])
+![](https://media1.tenor.com/m/CiEcvxyYm2AAAAAC/barbie-gif-gif.gif)
